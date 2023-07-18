@@ -1,0 +1,1 @@
+Instruções sobre como utilizar o git e github
